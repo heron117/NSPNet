@@ -27,7 +27,8 @@ Our code is coming soon
 
 ---
 
-### Detailed Comparison
+### Detailed Comparison 
+(Click on the image to download and view the HD image)
 <div style="text-align: center; margin: 20px;">
   <img src="./image/githubresultdisplay.jpg" alt="Result Display" width="400"/>
 </div>
