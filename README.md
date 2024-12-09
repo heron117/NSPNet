@@ -7,7 +7,7 @@ Our code is coming soon
 </div>
 Video footage display
 
-<img src="./image/githubresultdisplay.jpg" alt="项目演示" width="800"/>
+<img src="./image/githubresultdisplay.jpg" alt="项目演示" width="300"/>
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
