@@ -14,6 +14,14 @@ Our code is coming soon
 
 ---
 
+### Detailed Comparison 
+(Click on the image to download and view the HD image)
+<div style="text-align: center; margin: 20px;">
+  <img src="./image/githubresultdisplay.jpg" alt="Result Display" width="400"/>
+</div>
+
+---
+
 ### Class Activation Maps
 <div style="text-align: center; margin: 20px;">
   <img src="./image/layer1.gif" alt="Layer 1" width="200" style="margin-right: 10px;"/>
@@ -26,12 +34,6 @@ Our code is coming soon
 </p>
 
 ---
-
-### Detailed Comparison 
-(Click on the image to download and view the HD image)
-<div style="text-align: center; margin: 20px;">
-  <img src="./image/githubresultdisplay.jpg" alt="Result Display" width="400"/>
-</div>
 <p style="text-align: center;">
   More impressive results are being updated, please stay tuned.
 </p>
