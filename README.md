@@ -1,4 +1,4 @@
-# NSPNet
+# NSPNet:Noise-Perception Multi-Frame Collaborative Network for Enhanced Polyp Detection in Endoscopic Videos
 Our code is coming soon
 
 ---
