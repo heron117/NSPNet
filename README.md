@@ -12,4 +12,4 @@ Video footage display
 </div>
 The class activation maps of the 100th image at different iterations during training.
 
-
+More impressive results are being updated, please stay tuned.
